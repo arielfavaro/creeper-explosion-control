@@ -1,0 +1,6 @@
+# Configurations for CreeperExplosionControl
+# Prevent Creepers from destroying blocks
+prevent-block-damage: true
+
+# Prevent Creepers from damaging entities
+prevent-entity-damage: true

@@ -1,0 +1,4 @@
+name: CreeperExplosionControl
+version: '1.0-SNAPSHOT'
+main: com.arielfavaro.creeperExplosionControl.CreeperExplosionControl
+api-version: '1.20'
